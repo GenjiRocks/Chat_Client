@@ -6,14 +6,7 @@ function Conversations() {
     <>
       <div className="py-2 mb-3 flex flex-col overflow-auto">
         <Conversation />
-        <Conversation />
-        <Conversation />
-        <Conversation />
-        <Conversation />
-        <Conversation />
-        <Conversation />
-        <Conversation />
-        <Conversation />
+      
       </div>
     </>
   );
